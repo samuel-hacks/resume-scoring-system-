@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+scikit-learn
+pandas
+joblib
+spacy
+datasets
+huggingface_hub
